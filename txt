@@ -1,4 +1,5 @@
 khgugcoui;kl
 Hi Irine.
-It lokks like you are trying to use this option of Git as collaborate working.
+It looks like you are trying to use this option of Git as collaborate working.
+This file updated by Igor Volotovskyi.
 
